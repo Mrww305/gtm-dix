@@ -1,0 +1,6 @@
+{
+  "name": "Lead Generation & Drive Sync Suite",
+  "description": "Lead generation platform with automated Google Drive & Sheets syncing, product-to-lead mapping, behavioral email follow-ups, Google Maps lead scraper, and competitor intelligence.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
